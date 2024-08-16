@@ -1,5 +1,5 @@
 
-# Olá!
+# Olá! &#128579;
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5588996459091)
 
 ## Habilidades
