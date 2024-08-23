@@ -1,6 +1,6 @@
 
 # Olá! Bem-vindo ao meu perfil! &#x1F643;
-
+## [kauanlopes99.vercel.app](kauanlopes99.vercel.app)
 ---
 
 ## &#x1F44B; Sobre mim
@@ -22,5 +22,6 @@ Desenvolvedor web full stack com foco em criar soluções eficientes e com códi
 
 ---
 ## &#x1F4AC; Contato
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5588996459091) 
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5588996459091)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauan.lopes.dev99@gmail.com)
 ---
