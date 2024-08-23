@@ -1,6 +1,6 @@
 
 # Olá! Bem-vindo ao meu perfil! &#x1F643;
-## [kauanlopes99.vercel.app](kauanlopes99.vercel.app)
+## [kauanlopes99.vercel.app](https://kauanlopes99.vercel.app)
 ---
 
 ## &#x1F44B; Sobre mim
